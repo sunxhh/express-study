@@ -1,0 +1,14 @@
+/.metadata/
+/.idea/
+/.recommenders/
+/node_modules/
+/views/
+/.git/
+/.vscode/
+/npm-debug.log
+/server/log/
+/upload/
+server/log/access.log
+server/log/error.log
+server/log/access.log
+server/log/error.log
